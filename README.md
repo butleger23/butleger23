@@ -2,7 +2,7 @@
 
 ### Контакты 
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/butleger23) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:stefanmaximenko@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/butleger23) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:stefanmaximenko@yandex.ru)
 
 ### Мой стек:
 
